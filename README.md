@@ -1,46 +1,51 @@
-# Hey, I'm Temuulen 👋
+# Hi, I'm Temuulen 👋
 
-Full-stack developer based in Ulaanbaatar, Mongolia. I build things that ship.
+**Full-stack engineer · Enterprise automation · AI integrations**
 
-## GrapeCity Mongolia — Software Developer
+Based in Ulaanbaatar, Mongolia (UTC+8). I build enterprise tools, web platforms, and AI products, working across data models, APIs, interfaces, and deployment.
 
-**BB8** — Enterprise automation bot I built solo. Connects Slack, Jira, Jenkins, and LDAP into one system. Seven Docker services, Claude API integration, running in production. You can't see the repo, but it's the thing I'm most proud of.
+[Portfolio](https://www.temuulen.dev/) · [LinkedIn](https://www.linkedin.com/in/temuulen-bayanmunkh-304a93267/) · [Email](mailto:temuulen.developer@gmail.com)
 
-**OpsMan (NES)** — Enterprise operations management module. Angular 12, Java/JBoss, Oracle DB. Team project where I work alongside senior engineers.
+## Professional focus
 
-## Fleetbase — Open-source Contributor
+My professional work covers internal automation and enterprise applications. Outside work, I build web platforms and AI integrations, with a growing focus on backend architecture and system design.
 
-Contributed to [Fleetbase](https://github.com/fleetbase/fleetbase), a modular open-source logistics and supply chain operating system (Singapore-based). Shipped a Twilio SMS notification system, order management features, and admin panels. 13 pull requests merged. That was the first time I wrote code that strangers actually used, which changes how seriously you take the craft.
+## Selected public projects
 
-## Self-employed — Personal Projects
+### [Learnify](https://github.com/TemuulenBM/Learnify)
 
-**Vela AI** — AI-powered sales assistant with vector search (pgvector), Stripe + QPay payments, and a RAG pipeline. Next.js, tRPC, Anthropic API.
+An e-learning platform for the Mongolian market, with web, mobile, and API apps in one monorepo. Covers courses, enrollment, learning progress, quizzes, certificates, and payments.
 
-**Maison Élise** — Luxury e-commerce store. Next.js, Supabase, Sanity CMS, Stripe.
+**Next.js · NestJS · React Native · PostgreSQL · Redis · Docker**
 
-**Soril** — Geospatial mapping platform built with a former CTO. Node/Express, React, PostgreSQL, Docker.
+### [Vela AI](https://github.com/TemuulenBM/vela-ai)
 
-**3D Portfolio** — [temuulen.dev](https://temuulen.dev) — Next.js + Three.js + React Three Fiber.
+An AI sales assistant with tenant-scoped product search, recommendations, order lookup, streaming responses, and QPay integration.
 
-**Online Course Platform** — Full LMS built as a Turbo monorepo with PostgreSQL, Redis, and Elasticsearch.
+**Next.js · tRPC · Claude API · Drizzle · PostgreSQL**
 
-## What I work with
+### [Maison Élise](https://github.com/TemuulenBM/maison-elise)
 
-**Daily drivers:** TypeScript, Next.js, React, Node.js, PostgreSQL, Docker, TailwindCSS
+An e-commerce platform combining a storefront, editorial content, authentication, checkout, and order management.
 
-**Backend & infra:** Python + FastAPI, Angular, Prisma, Drizzle, Redis, Elasticsearch, Docker Compose
+**Next.js · Prisma · Supabase · Sanity · Stripe**
 
-**AI & integrations:** Anthropic Claude API, pgvector, tRPC, Stripe, QPay, SocialPay
+## Open-source work
 
-**Learning:** Distributed systems, system design at scale, backend architecture
+Previously worked at **Fleetbase**, contributing to its open-source logistics platform and related packages. Selected merged contributions:
 
-## I tend to finish things
+- [Notification registration](https://github.com/fleetbase/fleetops/pull/6)
+- [Fleet operations scheduler](https://github.com/fleetbase/fleetops/pull/12)
+- [Admin two-factor authentication](https://github.com/fleetbase/fleetbase/pull/170)
 
-Most of what I build doesn't live on this profile. But everything I start, I ship.
+## Tools I work with
 
-Open to remote roles with international teams.
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL
+- **Frontend:** React, Next.js, Angular
+- **Backend:** Node.js, NestJS, Express, FastAPI
+- **Data & infrastructure:** PostgreSQL, MySQL, Oracle, Redis, Docker
+- **Integrations:** LLM tool calling, retrieval, payment APIs, enterprise systems
 
-<p>
-  <a href="https://temuulen.dev">temuulen.dev</a> · 
-  <a href="https://www.linkedin.com/in/temuulen-bayanmunkh-304a93267/">LinkedIn</a>
-</p>
+Currently deepening my knowledge of **backend architecture, system design, and distributed systems**.
+
+**Open to remote full-stack and backend roles, and contract work with international teams.** Comfortable with async collaboration.
